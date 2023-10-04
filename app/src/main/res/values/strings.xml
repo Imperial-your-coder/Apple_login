@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testapp</string>
+    <string name="register">Enregistrer</string>
+    <string name="password">Votre mot de passe</string>
+    <string name="email">Votre adresse e-mail</string>
+    <string name="connect">Connectez-vous</string>
+</resources>
